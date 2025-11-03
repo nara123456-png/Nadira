@@ -1,2 +1,2 @@
 # Nadira
-This is my first repository 
+My first step into the multiverse of code.
